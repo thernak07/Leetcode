@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thernak07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Binary Search
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
