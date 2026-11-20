@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/thernak07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/thernak07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
