@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thernak07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thernak07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thernak07/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thernak07/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
