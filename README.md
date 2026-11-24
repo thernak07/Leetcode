@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thernak07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thernak07/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/thernak07/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thernak07/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thernak07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thernak07/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thernak07/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/thernak07/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/thernak07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thernak07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thernak07/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/thernak07/Leetcode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thernak07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thernak07/Leetcode/tree/master/0189-rotate-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thernak07/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
