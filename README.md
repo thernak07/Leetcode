@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thernak07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/thernak07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/thernak07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/thernak07/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thernak07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thernak07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thernak07/Leetcode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thernak07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thernak07/Leetcode/tree/master/0189-rotate-array) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/thernak07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thernak07/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
