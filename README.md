@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thernak07/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thernak07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thernak07/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/thernak07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thernak07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1095-find-in-mountain-array](https://github.com/thernak07/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
 | [2733-neither-minimum-nor-maximum](https://github.com/thernak07/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thernak07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thernak07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/thernak07/Leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/thernak07/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
